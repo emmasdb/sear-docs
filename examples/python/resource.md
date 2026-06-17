@@ -5,7 +5,7 @@ parent: Python
 ---
 
 
-# Resources
+# Resource profiles
 
 Valid operators for this type of request
 
