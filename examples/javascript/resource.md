@@ -5,7 +5,7 @@ parent: JavaScript
 ---
 
 
-# Resources
+# Resource profiles
 
 {: .warning }
 
